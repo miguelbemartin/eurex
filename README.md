@@ -1,6 +1,6 @@
 # eurex
 
-A Go library to handle Currency exchange rates
+This Go Library allows you to retrieve currency exchange rates from the official [European Central Bank service](https://www.ecb.europa.eu). 
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/miguelbemartin/eurex)](https://goreportcard.com/report/github.com/miguelbemartin/eurex)
 [![Build Status](https://travis-ci.org/miguelbemartin/eurex.svg?branch=master)](https://travis-ci.org/miguelbemartin/eurex)
