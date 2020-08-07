@@ -46,6 +46,8 @@ go test . -v
 ```
 
 ## Contributing
+* Open a PR: https://github.com/miguelbemartin/eurex/pulls
+* Open an issue: https://github.com/miguelbemartin/eurex/issues
 
 ## Authors
 * **Miguel Ángel Martín** - [@miguelbemartin](https://twitter.com/miguelbemartin)
